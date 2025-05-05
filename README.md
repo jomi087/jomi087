@@ -54,11 +54,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## 🧠Architectures
-
-  ![MVC](https://img.shields.io/badge/MVC-Pattern-blue?style=for-the-badge)
-  ![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-success?style=for-the-badge)
-
-
+![MVC](https://img.shields.io/badge/MVC-Pattern-blue?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-success?style=for-the-badge)
 
 ## 📊 GitHub Stats
 
