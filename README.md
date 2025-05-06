@@ -84,4 +84,4 @@ I'm always excited to collaborate on:
 ## ⚡ Fun Facts
 
 > *I enjoy playing games, yet the thought of creating one doesn’t ignite me* <br>
-> – but mark my words, I will make a History.
+> – but mark my words, I will make History.
