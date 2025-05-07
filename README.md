@@ -65,7 +65,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jomi087&show_icons=true&hide_title=true&count_private=true&hide=prs" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jomi087" alt="GitHub Streak" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomi087&hide_title=true&layout=compact&count_private=true" width="400" />
   <img src="https://leetcard.jacoblin.cool/jomijoseph?theme=white&font=Lexend%20Deca&extension=activity" alt="LeetCode Stats" width="400" />
 </div>
