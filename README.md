@@ -88,7 +88,7 @@ Multi-role service booking platform with real-time communication, payments, secu
 ### 🔹 Fashion Feet — https://fashionfeet.store/
 Full-stack e-commerce platform featuring wallet management, coupon workflows, reports, and payment integrations.
 
-### 🔹 AI-Integrated OTT Platform — https://netflix-gpt-with-react.vercel.app/
+### 🔹 AI-Integrated OTT Platform — https://ott-platform-ai.vercel.app/
 Movie discovery platform integrating OpenAI and Gemini APIs to provide AI-powered recommendations.
 
 ### 🔹 Stock Image Platform
